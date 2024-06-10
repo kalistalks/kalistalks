@@ -39,7 +39,7 @@ I'm a Computer Science undergraduate at the Singapore University of Technology a
 
 ## 📝 Portfolio Projects
 ### Pomodoro Timer Chrome Extension
-A customizable Pomodoro timer Chrome extension designed to help improve productivity by implementing the Pomodoro Technique. [View on GitHub](#)
+A customizable Pomodoro timer Chrome extension designed to help improve productivity by implementing the Pomodoro Technique. [View on GitHub](https://github.com/kalistalks/pomodoro.crx)
 
 ---
 
