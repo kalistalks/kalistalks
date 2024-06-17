@@ -38,9 +38,12 @@ I'm a Computer Science undergraduate at the Singapore University of Technology a
 - **LinkedIn**: [Kalista Phey](https://www.linkedin.com/in/kalista-phey)
 
 ## 📝 Portfolio Projects
-### Pomodoro Timer Chrome Extension
-A customizable Pomodoro timer Chrome extension designed to help improve productivity by implementing the Pomodoro Technique. [View on GitHub](https://github.com/kalistalks/pomodoro.crx)
+### [Pomodoro Timer Chrome Extension](https://github.com/kalistalks/pomodoro.crx)
+A customizable Pomodoro timer Chrome extension designed to help improve productivity by implementing the Pomodoro Technique.
 
+### [SUTD Design Thinking and Innovation] (https://github.com/kalistalks/sutd-dti)
+
+<hr>
 ---
 
 **Let's connect and build something amazing together!**
