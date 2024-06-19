@@ -42,7 +42,7 @@ I'm a Computer Science undergraduate at the Singapore University of Technology a
 A customizable Pomodoro timer Chrome extension designed to help improve productivity by implementing the Pomodoro Technique.
 
 ### [SUTD Design Thinking and Innovation](https://github.com/kalistalks/DTI)
-
+Developed an interactive light-based installation for SUTD's Design Thinking and Innovation course, enhancing user experience and increasing footfall; achieved an A grade.
 <hr>
 
 **Let's connect and build something amazing together!**
