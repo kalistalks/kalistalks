@@ -22,16 +22,7 @@ I'm a Computer Science undergraduate at the Singapore University of Technology a
 - **Anglo-Chinese Junior College**: GCE "A"-Levels (January 2021 - November 2022)
 
 ## 🛠 Skills
-- HTML
-- CSS
-- Javascript
-- Bootstrap
-- Python
-- PowerApps
-- Tkinter
-- PyQt5
-- Arduino
-- Adobe Illustrator
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,git,github,ai,java,mongodb,py,qt,sqlite,arduino)](https://skillicons.dev)
 
 ## 📫 Contact
 - **Email**: [pheykaitingkalista@gmail.com](mailto:pheykaitingkalista@gmail.com)
